@@ -15,5 +15,6 @@
     "https://doi.org/10.1097/00004728-199403000-00005",
     "https://doi.org/10.1109/NSSMIC.1993.373602",
     "https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases/mni-305"
-  ]
+  ],
+  "Species": "Homo sapiens"
 }
